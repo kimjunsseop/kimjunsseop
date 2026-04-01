@@ -5,7 +5,7 @@
 <br/>
 
 ## 👀 About Me
-- 🎓 **B.S. in Computer Engineering**, Dankook Univ (2026 Graduated)
+- 🎓 **Studied in Computer Engineering**, Dankook Univ (2026 Graduated)
 - 🎮 **Aspiring Game Client Developer** focusing on Unity and High-Performance Logic.
 - 🛠️ Passionate about **Game Architecture Design**, and **Performance Optimization**.
 - 🏗️ Interested in building **Scalable Frameworks** and **Design Patterns**.
