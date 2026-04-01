@@ -27,3 +27,20 @@
   
   
 </div>
+
+## 🕹️ Projects
+| Project Name | Period | Description | Key Tech |
+| :--- | :--- | :--- | :--- |
+| **[Deep-Sea-Diver]** | 2026.01 ~ | 수중 탐험 및 아이템 수집 멀티플레이 게임 | Unity |
+| **[NoName]** | 2026.03 ~ | 대규모 적 처리를 위한 Survivors-like 게임 | Unity |
+
+<br/>
+
+## 🏗️ Frameworks
+### 📦 [Object Pooling Framework]
+- **Goal**: 게임 최적화에 필요한 오브젝트 풀링 기법을 프레임워크화 하여 여러 프로젝트에서 재사용가능하게 하기위함
+- **Key Features**: 
+  - Expandable & Modular Design: 새로운 타입의 오브젝트 추가 시 기존 코드 수정 없이 확장 가능 (OCP 고려)
+  - Inspector-Friendly Configuration: 초기 풀 크기, 확장 여부 등을 Inspector에서 설정 가능하도록 설계
+  - Lightweight & Reusable: 특정 프로젝트에 종속되지 않는 구조로 다양한 게임에 쉽게 이식 가능
+<br/>
