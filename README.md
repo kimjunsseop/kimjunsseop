@@ -26,7 +26,7 @@
 ## 🕹️ Projects
 | Project Name | Period | Description | Links |
 | :--- | :--- | :--- | :--- |
-| **Deep-Sea-Diver** | 2026.01 ~ | 수중 탐험 및 아이템 수집 멀티플레이 게임 | [![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kimjunsseop/DEEP_SEA_DIVER_URP) [![notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/DEEP-SEA-DIVER-33a4a1da38ef807f9f3ced459f36a862?source=copy_link) |
+| **Deep-Sea-Diver** | 2026.01 ~ | 수중 탐험 및 아이템 수집 멀티플레이 게임 | [![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kimjunsseop/DEEP_SEA_DIVER_Proj.git) [![notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/DEEP-SEA-DIVER-33a4a1da38ef807f9f3ced459f36a862?source=copy_link) |
 | **NoName** | 2026.03 ~ | 대규모 적 처리를 위한 Survivors-like 게임 | [![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kimjunsseop/NoNameProj) [![notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/NoNameProject-3394a1da38ef80e088aace2b0a2dcf89) |
 
 ---
