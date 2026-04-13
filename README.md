@@ -42,6 +42,6 @@
   - **Expandable & Modular Design**: 새로운 타입 추가 시 기존 코드 수정 없이 확장 가능 (**OCP** 준수)
   - **Inspector-Friendly**: 초기 풀 크기, 자동 확장 여부 등을 유니티 인스펙터에서 직관적으로 설정
   - **Lightweight & Portable**: 특정 프로젝트 종속성을 제거하여 어떠한 유니티 프로젝트에도 즉시 이식 가능
-- **GitHub Link**: [![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kimjunsseop/NoNameProj)
+- **GitHub Link**: [![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kimjunsseop/ObjectPooling_Framework.git)
 
 <br/>
