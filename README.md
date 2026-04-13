@@ -11,6 +11,7 @@
 - 🏗️ Interested in building **Scalable Frameworks** and **Design Patterns**.
 
 ---
+<br>
 
 ## 🧱 Tech Stack
 
@@ -21,6 +22,7 @@
 <img src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white"/>
 
 ---
+<br>
 
 ## 🕹️ Projects
 | Project Name | Period | Description | Links |
@@ -29,6 +31,7 @@
 | **NoName** | 2026.03 ~ | 대규모 적 처리를 위한 Survivors-like 게임 | [![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kimjunsseop/NoNameProj) [![notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/NoNameProject-3394a1da38ef80e088aace2b0a2dcf89) |
 
 ---
+<br>
 
 ## 🏗️ Frameworks & Library
 
