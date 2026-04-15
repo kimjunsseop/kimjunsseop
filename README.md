@@ -9,6 +9,7 @@
 - 🎮 **Unity 기반 게임 클라이언트 개발자 지망**
 - 🛠️ **게임 아키텍처 설계**와 **성능 최적화**에 관심
 - 🏗️ **확장 가능한 프레임워크**와 **디자인 패턴** 설계에 흥미
+- 📋 **이력서** : [![notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/86a4a1da38ef8345980b819f998c7822?source=copy_link)
 
 ---
 <br>
