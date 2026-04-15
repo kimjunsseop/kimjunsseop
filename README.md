@@ -53,6 +53,6 @@
   - **데이터 기반 설계**: SO 기반으로 Ability를 구성하여 코드 수정 없이 조합만으로 스킬 생성
   - **관심사 분리**: 로직(Effect)과 연출(PresentationEffect)을 분리하여 유지보수성과 확장성 확보
   - **모듈형 아키텍처**: TargetSelector, Condition, Effect 단위로 분리되어 다양한 조합 가능 (OCP 준수)
-- **GitHub Link**: [![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kimjunsseop/ObjectPooling_Framework.git)
+- **GitHub Link**: [![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kimjunsseop/AbilitySystem_Framework.git)
 
 <br/>
